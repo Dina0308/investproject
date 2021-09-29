@@ -1,0 +1,14 @@
+@keyframes divider {
+    from { width: 0%; }
+    30% {width: 30%;}
+    70% {width: 70%;}
+    to { width: 100%; }
+   }
+
+@keyframes promo {
+    from {transform: scale(1);}
+    30% {transform: scale(1.1);}
+    50% {transform: scale(1.1);}
+    70% {transform: scale(1.1);}
+    100% {transform: scale(1);}
+}
